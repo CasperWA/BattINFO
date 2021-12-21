@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
+This is a change to the readme.
+
 # Battery INterFace Ontology (BattINFO)
 
 [![CI tests](https://github.com/BIG-MAP/BattINFO/workflows/CI%20tests/badge.svg)](https://github.com/BIG-MAP/BattINFO/actions/)
