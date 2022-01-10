@@ -1,0 +1,4 @@
+ontology_dirs: ["."]
+avoid_namespaces: []
+catalog_file_dir: "."
+deploy_branch: "deploy_onto-testing"
